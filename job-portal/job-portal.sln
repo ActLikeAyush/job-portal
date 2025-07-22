@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "job-portal.client", "job-portal.client\job-portal.client.esproj", "{EF2E9C18-362F-A131-F6FD-50A557961971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "job-portal.Server", "job-portal.Server\job-portal.Server.csproj", "{2AB4EC38-FFCE-4E88-B104-5A1FD97851CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2E9C18-362F-A131-F6FD-50A557961971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2E9C18-362F-A131-F6FD-50A557961971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2E9C18-362F-A131-F6FD-50A557961971}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EF2E9C18-362F-A131-F6FD-50A557961971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2E9C18-362F-A131-F6FD-50A557961971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2E9C18-362F-A131-F6FD-50A557961971}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2AB4EC38-FFCE-4E88-B104-5A1FD97851CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB4EC38-FFCE-4E88-B104-5A1FD97851CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB4EC38-FFCE-4E88-B104-5A1FD97851CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB4EC38-FFCE-4E88-B104-5A1FD97851CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855DF911-23DD-40D5-8C89-46DF0DF7C37D}
+	EndGlobalSection
+EndGlobal
